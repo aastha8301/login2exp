@@ -7,12 +7,19 @@ This is a simple project based on html and ajax that stores details of employee 
 Here I have used netbeans ide for frontend development and JsonPowerDB to store data. 
 
 **Benefits of using JsonPowerDB**:
+
 -Best suited to real-time applications for data analytics
+
 -Serverless support for faster development
+
 -Server side Native NoSQL - best query performance.
+
 -Minimum development cost
+
 -Minimum time to market
+
 -Minimizes the complexities of interoperability of different applications
+
 -Futuristic technology
 
 **Release History**:
