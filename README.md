@@ -15,6 +15,6 @@ Here I have used netbeans ide for frontend development and JsonPowerDB to store 
 -Minimizes the complexities of interoperability of different applications
 -Futuristic technology
 
-Release History:
+**Release History**:
 This project is done by Aastha Chaudhary to describe the usage of JsonPowerDB.
 
